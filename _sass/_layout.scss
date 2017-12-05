@@ -1,7 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
-  width: 80%;
+  width: 100%;
 }
 
 main,
@@ -28,6 +27,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-weight: 300;
 
     &:hover,
     &:focus {
