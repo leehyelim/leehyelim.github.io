@@ -1,4 +1,7 @@
 .catalogue {
+  max-width: 800px;
+  width: 100%;
+  
   &-item {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
