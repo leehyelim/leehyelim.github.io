@@ -1,7 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 2000px;
-  width: 70%;
+  width: 80%;
 }
 
 main,
@@ -27,7 +26,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-    font-weight: 300;
+    font-weight: 400;
 
     &:hover,
     &:focus {
@@ -48,6 +47,7 @@ footer,
     display: inline-block;
     opacity: .6;
     padding: 0 2rem 0 0;
+    font-weight: 600;
 
     &:last-child {
       padding-right: 0;
