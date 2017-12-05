@@ -1,14 +1,14 @@
 .container {
   margin: 0 auto;
-  width: 100%;
+  max-width: 2000px;
+  width: 70%;
 }
 
 main,
 footer,
 .nav-container {
   margin: 0 auto;
-  max-width: 2000px;
-  width: 80%;
+  width: 100%;
 }
 
 .nav {
