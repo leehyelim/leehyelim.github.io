@@ -17,6 +17,7 @@
 
   &-time {
     color: $default-tint;
+    font-weight: 300;
     font-family: $notosans;
     letter-spacing: .5px;
   }
@@ -26,7 +27,7 @@
     display: block;
     font-family: $notosans;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: 300;
     margin: .5rem 0;
   }
 
