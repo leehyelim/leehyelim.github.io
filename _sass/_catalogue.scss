@@ -27,6 +27,7 @@
   }
 
   &-title {
+    @include transition(all .3s ease-out);
     color: $default-shade;
     display: block;
     font-family: $notosans;
