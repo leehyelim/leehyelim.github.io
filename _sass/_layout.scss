@@ -24,6 +24,7 @@ main, footer {
     position: relative;
     text-align: center;
     border:1px solid blue;
+    overflow: hidden;
   }
 
   &-title {
