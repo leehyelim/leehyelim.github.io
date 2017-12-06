@@ -43,10 +43,11 @@ main, footer {
 
   ul {
     list-style-type: none;
-    margin: 20px 0;
+    margin: 1rem 0 0;
     padding: 0;
     text-align: center;
     float: right;
+    border:1px solid red;
   }
 
   li {
