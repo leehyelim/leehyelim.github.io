@@ -22,9 +22,9 @@ main, footer {
   &-container {
     margin: 20px auto;
     position: relative;
-    text-align: center;
     border:1px solid blue;
     overflow: hidden;
+    text-align: left;
   }
 
   &-title {
@@ -49,6 +49,9 @@ main, footer {
     margin: 1rem 0 0;
     padding: 0;
     text-align: center;
+    bottom: 0;
+    position: absolute;
+    right: 0;
     border:1px solid red;
   }
 
@@ -76,6 +79,7 @@ main, footer {
   }
 }
 
+/*
 @media (min-width: 600px) {
   .nav {
     &-container {
@@ -89,6 +93,7 @@ main, footer {
     }
   }
 }
+*/
 
 footer {
   font-family: $notosans;
