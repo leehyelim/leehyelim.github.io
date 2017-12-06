@@ -3,7 +3,12 @@
   width: 80%;
 }
 
-main,
+main, footer {
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
+
 .nav-container {
   margin: 0 auto;
   width: 80%;
@@ -84,8 +89,6 @@ footer {
   font-family: $notosans;
   padding: 2rem 0;
   text-align: center;
-  max-width: 800px;
-  width: 100%;
 
   span {
     color: $default-color;
