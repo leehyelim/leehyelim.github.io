@@ -24,6 +24,7 @@ main, footer {
     position: relative;
     overflow: hidden;
     text-align: left;
+    border:1px solid red;
   }
 
   &-title {
@@ -44,7 +45,7 @@ main, footer {
 
   ul {
     list-style-type: none;
-    margin: 1rem 0 0;
+    margin: 0;
     padding: 0;
     text-align: center;
     bottom: 0;
