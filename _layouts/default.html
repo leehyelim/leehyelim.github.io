@@ -22,7 +22,9 @@
     </main>
 
     <footer>
-      
+       <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
       <!— Html Elements for Search -->
         <div id="search-container" style="float:left;">
         <input style="float:left;" type="text" id="search-input" placeholder="search...">
@@ -45,10 +47,7 @@
                 exclude: ['Welcome']
               })
         </script>
-      
-      <span style='font-size:8px; color:#cccccc; float:right;">
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
-      </span>
+     
       
     </footer>
   </body>
