@@ -17,10 +17,10 @@ main, footer {
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
-  height: 70px;
+  height: 3rem;
 
   &-container {
-    margin: 2% auto 0;
+    margin: auto;
     position: relative;
     overflow: hidden;
     text-align: left;
