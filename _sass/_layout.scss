@@ -40,6 +40,10 @@ main, footer {
     &:focus {
       color: #ff7f00;
     }
+    
+    @media (max-width: 600px) {
+    font-size: 18px;
+    }
   }
 
   ul {
@@ -67,6 +71,10 @@ main, footer {
     &:hover,
     &:focus {
       opacity: 0.6;
+    }
+    
+    @media (max-width: 600px) {
+    font-size: 16px;
     }
   }
 
