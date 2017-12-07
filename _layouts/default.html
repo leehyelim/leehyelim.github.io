@@ -25,10 +25,10 @@
       <span>
         &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
       </span>
-      <div><a href="/search/"><img src="/images/search.png" width="20" height="20"/></a></div>
       
       <!— Html Elements for Search -->
-        <div id="search-container">
+        <div id="search-container" style="float:left;">
+        <img src="/images/search.png" width="20" height="20"/>
         <input type="text" id="search-input" placeholder="search...">
         <ul id="results-container"></ul>
         </div>
