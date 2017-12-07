@@ -43,9 +43,7 @@ author: "hyelim"
 - 이름 바꾸기(Layer/Artboard/Group): Cmd + R  
 - 레이어 그룹 풀기(Ungroup Layers): Shift + Cmd + G
 
-## 커스텀 숏컷
-또한, http://sketchshortcuts.com에서는 커스텀 숏컷을 만드는 방법과, 유용한 커스텀 숏컷을 제안한다.
-아래 커스텀 숏컷은 정말 유용한다.
+## align
 - 세로 정렬: Cmd + [
 - 가로 정렬: Cmd + ]
 
@@ -56,3 +54,7 @@ Ctrl + Cmd + ↓  
 - 숨기기 : H
 - 마지막으로 숨긴 물체 숨김 해제 : Shift + H
 - 전체 숨김 해제 : Cmd + Shift + H
+
+## 커스텀 숏컷
+또한, http://sketchshortcuts.com 에서는 커스텀 숏컷을 만드는 방법과, 유용한 커스텀 숏컷을 제안한다.
+아래 커스텀 숏컷은 정말 유용한다.
