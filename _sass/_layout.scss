@@ -20,13 +20,13 @@ main, footer {
   height: 3rem;
 
   &-container {
-    margin: 18px auto;
+    margin: 18px auto 0;
     position: relative;
     overflow: hidden;
     text-align: left;
     
     @media (max-width: 600px) {
-    margin: 12px auto;
+    margin: 12px auto 0;
     }
   }
 
