@@ -5,3 +5,5 @@ author: "hyelim"
 ---
 
 layer -> combine -> flatten
+
+![image](https://user-images.githubusercontent.com/34228953/33706286-fa864e72-db76-11e7-9577-b369edf7f18a.png)
