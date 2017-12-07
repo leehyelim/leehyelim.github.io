@@ -29,7 +29,12 @@
     color: $default-tint;
     font-weight: 300;
     font-family: $notosans;
+    font-size: .8rem;
     letter-spacing: .5px;
+    
+    @media (max-width: 600px) {
+    font-size: .88rem;
+    }
   }
 
   &-title {
@@ -37,9 +42,13 @@
     color: $default-shade;
     display: block;
     font-family: $notosans;
-    font-size: 42px;
+    font-size: 2rem;
     font-weight: 700;
     margin: .5rem 0;
+    
+    @media (max-width: 600px) {
+    font-size: 1.5rem;
+    }
   }
 
   &-line {
