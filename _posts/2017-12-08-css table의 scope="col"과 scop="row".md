@@ -14,7 +14,7 @@ scope="row" 와 scope="col" 을 붙이는 이유는 쉽게 말해 스크린 리�
 <table width="100%" summary="데이타테이블 설명" class="datatable" border="1">
 <caption>표제목</caption>
 <thead>
-  <tr style="border:1px solid red;">
+  <tr>
     <th rowspan="2" scope="col">전체 구분1 </th>
     <th colspan="3" scope="colgroup">구분 1 </th>
   </tr>
@@ -27,7 +27,7 @@ scope="row" 와 scope="col" 을 붙이는 이유는 쉽게 말해 스크린 리�
 <tbody>
   <tr>
     <th scope="row">구분 A</th>
-    <td style="border:1px solid red;">내용 1-1-A</td>
+    <td>내용 1-1-A</td>
     <td>내용 1-2-A</td>
     <td>내용 1-3-A</td>
   </tr>
