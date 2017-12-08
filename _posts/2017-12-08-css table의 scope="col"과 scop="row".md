@@ -45,7 +45,7 @@ scope="row" 와 scope="col" 을 붙이는 이유는 쉽게 말해 스크린 리�
   </tr>
 </tbody>
 </table>
-
+<br>
 {% highlight html %}
 <table width="100%" summary="데이타테이블 설명" class="datatable">
 <caption>표제목</caption>
