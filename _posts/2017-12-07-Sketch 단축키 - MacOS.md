@@ -2,6 +2,7 @@
 layout: post
 title: "Sketch 단축키 - MacOS"
 author: "hyelim"
+tags: "sketch 스케치 단축키" 
 ---
 
 ## Insert <br>
