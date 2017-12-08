@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "css table의 scope="col"과 scop="row""
+title: "css table의 scope=&quot;col&quot;과 scop=&quot;row&quot;"
 author: "hyelim"
 tags: "css css3 웹표준 접근성 테이블" 
 ---
