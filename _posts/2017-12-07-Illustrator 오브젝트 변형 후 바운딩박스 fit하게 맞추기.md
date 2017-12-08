@@ -2,6 +2,7 @@
 layout: post
 title: "Illustrator 오브젝트 변형 후 바운딩박스 fit하게 맞추기"
 author: "hyelim"
+tags: "illustrator 일러스트레이터 bounding box"
 ---
 
 오브젝트를 회전하면 바운딩박스가 수평적이지 않고 같이 회전한다. 그럴때는 `Object - Transform - Reset Bounding Box` 를 해주면 해결이 된다.<br><br>
