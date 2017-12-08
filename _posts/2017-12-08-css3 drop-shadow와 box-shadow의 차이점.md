@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "css3 drop-shadow와 box-shadow의 차이점.md"
+title: "css3 drop-shadow와 box-shadow의 차이점"
 author: "hyelim"
 tags: "css css3 그림자" 
 ---
