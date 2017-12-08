@@ -21,7 +21,11 @@ layout: default
  <!-- <div class="post-line"></div> -->
 
   {{ content }}
-  <div class="tags">{{ join: "#" | page.tags | join: "&nbsp;" }}</div>
+  <div class="tags">{{ page.tags | split: "&nbsp;" }}
+{% for page.tag in page.tags %}
+dd{{ page.tag }}dd
+{% endfor %}
+  </div>
   
   <!-- comment start --> 
   <div id="disqus_thread"></div>
