@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "footer 배경이 상단으로 올라갈때"
+title: "css footer 배경이 상단으로 올라갈때"
 author: "hyelim"
 tags: "css css3 overflow hidden 풋터" 
 ---
@@ -13,7 +13,7 @@ tags: "css css3 overflow hidden 풋터"
 <div id="container" style="overflow:hidden;" >
   <div id="visual"></div>
   <div id="left"></div>
-  <div id="right></div>
+  <div id="right"></div>
 </div> 
 
 <div id="footer"></div>
