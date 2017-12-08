@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          hyelim
-paginate:       5
+paginate:       30
 baseurl:       
 url:            "https://leehyelim.github.io"
 
