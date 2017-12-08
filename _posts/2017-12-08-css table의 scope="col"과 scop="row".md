@@ -1,3 +1,10 @@
+---
+layout: post
+title: "css table의 scope="col"과 scop="row""
+author: "hyelim"
+tags: "css css3 웹표준 접근성 테이블" 
+---
+
 
 scope="row" 와 scope="col" 을 붙이는 이유는 쉽게 말해 스크린 리더기를 사용하는 사용자가 오직 귀로만 테이블의 정보를 얻어야 할 경우, 
 테이블의 데이타를 인식하고 읽는 순서를 결정하기 때문이다.
