@@ -23,7 +23,7 @@ layout: default
   {{ content }}
   <div class="tags">{{ page.tags | split: "&nbsp;" }}
 {% for page.tag in page.tags %}
-dd{{ page.tag }}dd
+{{ page.tag }}
 {% endfor %}
   </div>
   
