@@ -11,7 +11,7 @@ scope="row" 와 scope="col" 을 붙이는 이유는 쉽게 말해 스크린 리�
 웹표준, 접근성을 고려해서 홈페이지를 제작 한다면 반드시 준수해야 할 사항이다.<br><br>
 
 복잡한 구조의 테이타 테이블<br>
-<table width="100%" summary="데이타테이블 설명" class="datatable">
+<table width="100%" summary="데이타테이블 설명" class="datatable" style="border:1px solid #ccc;">
 <caption>표제목</caption>
 <thead>
   <tr>
