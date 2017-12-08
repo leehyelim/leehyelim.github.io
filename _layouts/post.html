@@ -21,7 +21,7 @@ layout: default
  <!-- <div class="post-line"></div> -->
 
   {{ content }}
-  <div class="tags">{{ page.tags }}</div>
+  <div class="tags" style="background:#ccc;">{{ page.tags | join: ', ' }}</div>
   
   <!-- comment start --> 
   <div id="disqus_thread"></div>
