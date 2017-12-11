@@ -47,28 +47,7 @@
        <span>
         &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
       </span>
-      <!— Html Elements for Search -->
-        <div id="search-container" style="float:left;">
-        <input style="float:left;" type="text" id="search-input" placeholder="search...">
-        <ul id="results-container"></ul>
-        </div>
-
-        <!-- Script pointing to jekyll-search.js -->
-        <script src="{{site.baseurl}}/dest/jekyll-search.js" type="text/javascript"></script>
-
-
-        <script type="text/javascript">
-              SimpleJekyllSearch({
-                searchInput: document.getElementById('search-input'),
-                resultsContainer: document.getElementById('results-container'),
-                json: '{{ site.baseurl }}/search2.json',
-                searchResultTemplate: '<li style="font-size: .8rem; text-align= left; float:left; clear:both;"><a href="{url}" title="{desc}">{title}</a></li>',
-                noResultsText: 'No results found',
-                limit: 10,
-                fuzzy: false,
-                exclude: ['Welcome']
-              })
-        </script>
+     
      
       
     </footer>
