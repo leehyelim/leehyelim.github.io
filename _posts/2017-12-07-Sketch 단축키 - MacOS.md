@@ -27,9 +27,8 @@ tags: "sketch 스케치 단축키"
 - Canvas 이동: Space + Drag
 
 ## Window
-- 레이어 리스트 바꾸기: Alt + Cmd + 1  
-- 인스펙터(Inspector) 바꾸기: Alt + Cmd + 2  
-- 레이어 리스트와 인스펙터 바꾸기: Alt + Cmd + 3  
+- 레이어 리스트 숨기기/보이기: Alt + Cmd + 1  
+- 인스펙터(Inspector) 숨기기/보이기: Alt + Cmd + 2  
 - 프레젠테이션 모드(Presentation Mode): Cmd + .
 
 ## Layers
